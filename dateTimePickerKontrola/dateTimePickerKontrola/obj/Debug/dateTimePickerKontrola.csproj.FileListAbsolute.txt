@@ -1,0 +1,10 @@
+C:\Users\denim\source\repos\dateTimePickerKontrola\dateTimePickerKontrola\bin\Debug\dateTimePickerKontrola.exe.config
+C:\Users\denim\source\repos\dateTimePickerKontrola\dateTimePickerKontrola\bin\Debug\dateTimePickerKontrola.exe
+C:\Users\denim\source\repos\dateTimePickerKontrola\dateTimePickerKontrola\bin\Debug\dateTimePickerKontrola.pdb
+C:\Users\denim\source\repos\dateTimePickerKontrola\dateTimePickerKontrola\obj\Debug\dateTimePickerKontrola.csprojAssemblyReference.cache
+C:\Users\denim\source\repos\dateTimePickerKontrola\dateTimePickerKontrola\obj\Debug\dateTimePickerKontrola.Form1.resources
+C:\Users\denim\source\repos\dateTimePickerKontrola\dateTimePickerKontrola\obj\Debug\dateTimePickerKontrola.Properties.Resources.resources
+C:\Users\denim\source\repos\dateTimePickerKontrola\dateTimePickerKontrola\obj\Debug\dateTimePickerKontrola.csproj.GenerateResource.cache
+C:\Users\denim\source\repos\dateTimePickerKontrola\dateTimePickerKontrola\obj\Debug\dateTimePickerKontrola.csproj.CoreCompileInputs.cache
+C:\Users\denim\source\repos\dateTimePickerKontrola\dateTimePickerKontrola\obj\Debug\dateTimePickerKontrola.exe
+C:\Users\denim\source\repos\dateTimePickerKontrola\dateTimePickerKontrola\obj\Debug\dateTimePickerKontrola.pdb
